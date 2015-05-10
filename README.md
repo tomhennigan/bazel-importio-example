@@ -6,9 +6,10 @@ house hunting) and decided to use the newly open sourced
 [bazel](http://bazel.io) build system from Google to build this project.
 
 I thought publishing an example of how to use the import.io client from Maven
-would be useful for others. I've also worked around google/bazel#89 (tl;dr
-`maven_jar` does not bring in transitive dependencies) which is one less thing
-for people to worry about.
+would be useful for others. I've also worked around
+[google/bazel#89](https://github.com/google/bazel/issues/89) (tl;dr
+`maven_jar` does not bring in transitive dependencies yet) which is one less
+thing for people to worry about.
 
 Usage
 -----
