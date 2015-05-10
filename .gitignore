@@ -1,0 +1,6 @@
+/bazel-*
+/.settings
+/.project
+/.classpath
+/.factorypath
+/.idea/
