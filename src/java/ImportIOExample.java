@@ -133,5 +133,7 @@ public class ImportIOExample {
     // Now we can print out the data we got
     System.out.println("All data received:");
     System.out.println(dataRows);
+    
+    System.exit(0);
   }
 }
